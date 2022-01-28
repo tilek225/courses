@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a0f8277-6fbc-4d29-89ee-ea3aaaa11085" name="Default Changelist" comment="" />
+    <list default="true" id="2a0f8277-6fbc-4d29-89ee-ea3aaaa11085" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +46,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643375412271</updated>
-      <workItem from="1643375413990" duration="1175000" />
+      <workItem from="1643375413990" duration="1328000" />
+      <workItem from="1643377069702" duration="504000" />
     </task>
     <servers />
   </component>
@@ -55,5 +59,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1643376898594" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1643377351359">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1643377351359" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1643377372898">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1643377372898" />
   </component>
 </project>
